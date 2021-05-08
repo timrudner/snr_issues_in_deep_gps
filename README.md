@@ -43,12 +43,13 @@ For any given figure, `create_figures.py` will print the appropriate commands to
 
 ## Citation
 ```
-@misc{rudner2020dgpsnr,
-      title={On Signal-to-Noise Ratio Issues in Variational Inference for Deep Gaussian Processes},
+@InProceedings{Rudner2021SNRIssuesInDGPs,
       author={Tim G. J. Rudner and Oscar Key and Yarin Gal and Tom Rainforth},
-      year={2020},
-      eprint = {arXiv:2011.00515},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+      title = {{O}n {S}ignal-to-{N}oise {R}atio {I}ssues in {V}ariational {I}nference for {D}eep {G}aussian {P}rocesses},
+      booktitle ={Proceedings of the 38th International Conference on Machine Learning},
+      year = {2021},
+      series ={Proceedings of Machine Learning Research},
+      address ={Online},
+      publisher ={PMLR},
 }
 ```
